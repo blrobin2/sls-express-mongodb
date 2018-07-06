@@ -1,4 +1,4 @@
-# sls-expresss-mongodb
+# sls-express-mongodb
 A sample Serverless (https://serverless.com/) app using Express and MongoDB
 Follows https://dev.to/adnanrahic/a-crash-course-on-serverless-apis-with-express-and-mongodb-193k
 
