@@ -7,7 +7,7 @@
     "offline": "sls offline start --skipCacheInvalidation"
   },
   "dependencies": {
-    "body-parser": "^1.18.3",
+    "body-parser": "^1.20.0",
     "express": "^4.16.3",
     "helmet": "^3.21.1",
     "mongoose": "^5.13.15",
